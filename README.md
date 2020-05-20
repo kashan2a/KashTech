@@ -1,4 +1,4 @@
-# KayScience
+# KashTech
 
 Web Blog on Science & Technology.
 This will be repo for my Science Blog.
